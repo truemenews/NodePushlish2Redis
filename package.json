@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "redis": "^4.6.12"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "noderedis",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "TrueMe",
+  "description": "Push(Pub/Sub) message to Redis with Node"
+}
